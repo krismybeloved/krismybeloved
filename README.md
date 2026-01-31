@@ -1,1 +1,1 @@
-[![Whats beyond the stars?](./whats-beyond-the-stars.png)](https://saahild.com/?ref=readme-gh)
+[![Whats beyond the stars?](https://github.com/NeonGamerBot-QK/NeonGamerBot-QK/blob/main/whats-beyond-the-stars.png)]
